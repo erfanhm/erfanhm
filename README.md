@@ -22,7 +22,6 @@
 
 Software Engineer with 2+ years of experience building **AI-driven, scalable applications**. Specialized in **LLM integration**, **prompt engineering**, and **API-first architectures** for Generative AI workflows. Currently a Research Assistant at the **University of Windsor**, working on AI-powered systems with LLM APIs, OCR pipelines, and cloud infrastructure.
 
-- Based in **Toronto, Canada**
 - M.Eng in Electrical & Computer Engineering — **University of Windsor**
 - B.Sc in Software Engineering — **Islamic Azad University**
 - Passionate about building production-ready AI solutions
